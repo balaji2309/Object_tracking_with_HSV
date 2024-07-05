@@ -37,7 +37,7 @@ while True:
     cv2.imshow("res", res)
     out.write(res) 
     key = cv2.waitKey(1)
-    if key == 27:
+    if key == ord('q'):
         break
 cap.release()
 out.release()
