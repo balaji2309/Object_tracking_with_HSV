@@ -1,3 +1,4 @@
+
 #Real-Time Object Detection and Tracking with OpenCV and HSV Color Detection
 
 This project implements real-time object detection and tracking using OpenCV and HSV color detection techniques. It leverages computer vision to detect objects based on their color in live webcam feeds and tracks their movement across consecutive frames. Additionally, it saves the processed video with annotated objects.
@@ -13,3 +14,4 @@ This project is designed for learning and implementing object detection and trac
 
 https://github.com/balaji2309/Object_tracking_with_HSV/assets/124773956/46458796-96f7-46a1-8e33-2a396ce9d869
 
+![image](https://github.com/balaji2309/Object_tracking_with_HSV/assets/124773956/c4381060-c886-4ad0-bb4b-6acb1b25e7b2)
